@@ -10,7 +10,7 @@
   height: 100vh;
   /* background-image: linear-gradient(rgba(0,0,0,0.3),transparent),url(/images/background.png); */
   background-image: linear-gradient(rgba(0, 0, 0, 0.3), transparent),
-    url(/images/muntain.jpg);
+    url(assets/muntain.jpg);
   background-size: cover;
   background-position: center;
   padding: 0 8%;
